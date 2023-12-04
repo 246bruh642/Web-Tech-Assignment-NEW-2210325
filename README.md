@@ -33,11 +33,14 @@ HOW TO USE
 4. If needed, update the JavaScript logic in the script.js file to include additional form validation or other functionality.
 
 CONTRIBUTORS
+
 1. Adam Ashraf bin Azlan 2210325 Section 02
 
 LICENSE
+
 This project is licensed under the © 2023 RM1 Campaign
 
 REFERENCES
+
 1. Formstack. (n.d.). Survey Templates & Forms | Formstack. https://www.formstack.com/template-category/surveys
 2. HTML tutorial. (n.d.). https://www.w3schools.com/html/default.asp
